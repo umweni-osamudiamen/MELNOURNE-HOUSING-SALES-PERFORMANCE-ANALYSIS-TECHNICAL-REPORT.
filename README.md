@@ -1,0 +1,2 @@
+# MELNOURNE-HOUSING-SALES-PERFORMANCE-ANALYSIS-TECHNICAL-REPORT.
+Man, above many things, desires proper shelter, so this project aims to demystify the Melbourne housing sector based on certain factors. The project goal is to know the number of houses built, land sold, how many houses were sold per year, houses sold per region, sold by Price, sold by Land size, sold by Car lot, sold by Bedroom etc.
