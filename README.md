@@ -13,7 +13,9 @@ The dataset was clean when downloaded from Kaggle, no duplicates, no errors to b
 It was then split into dependent and independent databases based on it features:
 
 ●	Category 1: Independent Value: SellerG, Council Area, Region name, Suburb, Date, Postcode, Car, Land size.
+
 ●	Category 2: Dependent Value: Distance, Room, Methods, Address, Price, Bedroom
+
 Industry Context: Real Estate/ Housing
 Stakeholders:  Chief executives, Investors, and Potential customers
 Value to the Industry: To sell affordable houses, properties, and generate revenue.
