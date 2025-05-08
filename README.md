@@ -3,13 +3,15 @@
 Introduction:
 Man, above many things, desires proper shelter, so this project aims to demystify the Melbourne housing sector based on certain factors. The project goal is to know the number of houses built, land sold, how many houses were sold per year, houses sold per region, sold by Price, sold by Land size, sold by Car lot, sold by Bedroom, sold by Bathroom, selling trend in Melbourne, average total Sales, houses sold by Suburb. and Houses by Distance.
 
-Key Datasets and Methodologies: Melbourne housing data from Kaggle, and analysed with Microsoft Excel & Pivot Table.
+Key Datasets and Methodologies:
+Melbourne housing data from Kaggle, and analysed with Microsoft Excel & Pivot Table.
 Story of Data: This data represents the housing business from land size, car lot, number of bathrooms and many more in Melbourne in the dataset, which is purchased data and other records. It is a public data set available online, the data on sales is in columns while the serial in rows. The data contains SellerG, Council Area, Region name, Suburb, Date, Postcode, Car, Land size in Melbourne and many more.
 Data Limitations or Biases: The dataset presents enough data for reasonable business decisions, but it doesn’t tell us if the buyers are satisfied or not, which can be a convincing factor when potential buyers do an online review.
 
 Data Splitting and Preprocessing:
 The dataset was clean when downloaded from Kaggle, no duplicates, no errors to be corrected, no missing value, it was then transformed into standard excel table.
 It was then split into dependent and independent databases based on it features:
+
 ●	Category 1: Independent Value: SellerG, Council Area, Region name, Suburb, Date, Postcode, Car, Land size.
 ●	Category 2: Dependent Value: Distance, Room, Methods, Address, Price, Bedroom
 Industry Context: Real Estate/ Housing
@@ -39,6 +41,7 @@ In-Analysis:
 14. House type H top the chart with $11,741,939,328.00 and type t house came third on the list with $1,040,180,850.00
 
 Post-Analysis and Insights:
+
 The revenue generated annually by the Melbourne housing scheme is $ 6.63 billion. Houses with 2-3 bathrooms top the chart and record more sales of $7,738,015,738.00, and Houses with 6-8 bathrooms recorded sales of $23,741,000.00. More units of houses with 2-3 bathrooms are needed and the same for bedrooms; the number should match or be exceeded by the number of bathrooms.
 
 Data Visualizations & Charts:
